@@ -4,8 +4,8 @@
   ### [Module 01 - Introduction to Web Application Security](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#introduction-to-web-application-security)
   * [Security threats and vulnerabilities](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#security-threats-and-vulnerabilities)
   * [Attack vectors and motivations](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#attack-vectors-and-motivations)
-  * CIA triad (Confidentiality, Integrity, Availability)
-  * Secure Development Lifecycle (SDLC)
+  * [CIA triad (Confidentiality, Integrity, Availability)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#cia-triad-confidentiality-integrity-availabilitycia-triad-confidentiality-integrity-availability)
+  * [Secure Development Lifecycle (SDLC)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#secure-development-lifecycle-sdlc)
   ### Module 02 - Web Application Reconnaissance
   * Information gathering techniques
   * Finding subdomains
