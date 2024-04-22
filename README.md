@@ -6,7 +6,7 @@
   * [Attack vectors and motivations](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#attack-vectors-and-motivations)
   * [CIA triad (Confidentiality, Integrity, Availability)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#cia-triad-confidentiality-integrity-availabilitycia-triad-confidentiality-integrity-availability)
   * [Secure Development Lifecycle (SDLC)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#secure-development-lifecycle-sdlc)
-  ### Module 02 - Web Application Reconnaissance
+  ### [Module 02 - Web Application Reconnaissance](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#web-application-reconnaissance)
   * Information gathering techniques
   * Finding subdomains
   * Web application fingerprinting
