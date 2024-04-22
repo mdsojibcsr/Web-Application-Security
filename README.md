@@ -1,6 +1,6 @@
 # Web-Application-Security
 A Complete Web Application Security Syllabus.
-Table of Contents
+# Table of Contents #
   # Module 01 - Introduction to Web Application Security
   * Security threats and vulnerabilities
   * Attack vectors and motivations
