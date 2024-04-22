@@ -1,5 +1,5 @@
 # Web Application Security
-A Complete Web Application Security Syllabus.
+###A Complete Web Application Security Syllabus.
 # Table of Contents #
   ### Module 01 - Introduction to Web Application Security
   * Security threats and vulnerabilities
@@ -57,6 +57,6 @@ A Complete Web Application Security Syllabus.
   * Incident response planning and procedures
   * Vulnerability disclosure and remediation
   * Security monitoring and logging practices
-  ## Module 12 - Legal and Ethical Considerations
+  ### Module 12 - Legal and Ethical Considerations
   * Laws and regulations regarding web application security (e.g., GDPR, CCPA)
   * Ethical hacking and responsible disclosure practices
