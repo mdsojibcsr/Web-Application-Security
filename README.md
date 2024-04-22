@@ -69,4 +69,15 @@ Web applications are essential components of modern business. They are used for 
 That's why web application security is an important issue.
 
 ## Security threats and vulnerabilities
-dmdnmnd
+Web applications have become indispensable in our daily life. But, like anything, web applications face or are facing security threats. These threats can take advantage of application vulnerabilities to harm our data, privacy and even money.
+
+A security threat is anything that compromises the security of a web application. They can be operated either by a person (hacker) or a program (malware).Common security threats are:
+SQL Injection, Cross-Site Scripting (XSS), Malware, Denial-of-Service (DoS) attacks etc.
+
+And a vulnerability is any weakness in a web application that opens the door to security threats. This can be due to coding mistakes, misconfigurations or software design flaws. Among the common weaknesses are: Un-updated software: If the web application and its dependent software are not updated, they may contain known vulnerabilities.
+Weak Password Policy: If users are allowed to choose weak passwords, it will be very easy for attackers to guess or crack them.
+Improper input validation: Web applications should validate user input to prevent malicious code from being injected.
+Misconfigured security settings: Incorrect security settings can leave the application vulnerable to attack
+Insecure File Permissions: Files containing sensitive information should be restricted to authorized users.Hackers can take advantage of these vulnerabilities to attack and take our important data. As it happened, Equifax (the case on the page above) failed to keep their applications and software updated. Even though it has a patch available against a known SQL injection vulnerability, Equifax has not installed it on their systems. Equifax did not use adequate security measures to secure their systems. This leak could have been prevented if a web application firewall (WAF) was installed. That is why it is important for us to be aware of this.
+
+## Attack vectors and motivations
