@@ -81,3 +81,11 @@ Misconfigured security settings: Incorrect security settings can leave the appli
 Insecure File Permissions: Files containing sensitive information should be restricted to authorized users.Hackers can take advantage of these vulnerabilities to attack and take our important data. As it happened, Equifax (the case on the page above) failed to keep their applications and software updated. Even though it has a patch available against a known SQL injection vulnerability, Equifax has not installed it on their systems. Equifax did not use adequate security measures to secure their systems. This leak could have been prevented if a web application firewall (WAF) was installed. That is why it is important for us to be aware of this.
 
 ## Attack vectors and motivations
+No content
+## CIA triad (Confidentiality, Integrity, Availability)CIA triad (Confidentiality, Integrity, Availability)
+No content
+## Secure Development Lifecycle (SDLC)
+No Content
+
+# Web Application Reconnaissance
+Upcoming
