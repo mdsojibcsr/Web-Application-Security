@@ -60,3 +60,5 @@
   ### Module 12 - Legal and Ethical Considerations
   * Laws and regulations regarding web application security (e.g., GDPR, CCPA)
   * Ethical hacking and responsible disclosure practices
+# Introduction to Web Application Security
+Web application security is a branch of information security that specifically deals with the security of websites, web applications and web services. It is designed to ensure that these applications are protected from unauthorized access, modification or destruction. Web application security is important because it can protect web applications from various types of threats.
