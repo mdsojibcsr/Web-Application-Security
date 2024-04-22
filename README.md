@@ -62,9 +62,10 @@
   * Ethical hacking and responsible disclosure practices
 # Introduction to Web Application Security
 Web application security is a branch of information security that specifically deals with the security of websites, web applications and web services. It is designed to ensure that these applications are protected from unauthorized access, modification or destruction. Web application security is important because it can protect web applications from various types of threats.It is a broad discipline, but its ultimate goals are to keep web applications running smoothly and protect businesses from cyber vandalism, data theft, unethical competition and other negative consequences. The global nature of the Internet exposes web applications and APIs to attacks from many locations and with varying levels of scale and complexity. As such, web application security encompasses a variety of techniques and covers many parts of the software supply chain.
+
 Why is web application security important?
 Web applications are essential components of modern business. They are used for everything from online sales and customer support to data collection and storage. As a result, they are prime targets for attackers. According to a report by Verizon (https://www.verizon.com/business/resources/reports/dbir/), web application attacks are one of the most common types of cyber attacks. In fact, they account for more than 40% of all data breaches.These attacks can have a devastating impact on businesses. They can lead to data loss, financial loss, reputational damage and even legal issues. Let's see an example! In 2017, a data leak at Equifax exposed the personal information of 147 million Americans. The leak was caused by an SQL injection vulnerability that allowed attackers to gain access to the company's database.The leak caused a huge financial loss for Equifax, and forced the company's CEO to resign.
 That's why web application security is an important issue.
 
-* Security threats and vulnerabilities
+# Security threats and vulnerabilities
 dmdnmnd
