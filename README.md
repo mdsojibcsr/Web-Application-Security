@@ -7,11 +7,11 @@
   * [CIA triad (Confidentiality, Integrity, Availability)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#cia-triad-confidentiality-integrity-availability)
   * [Secure Development Lifecycle (SDLC)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#secure-development-lifecycle-sdlc)
   ### [Module 02 - Web Application Reconnaissance](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#web-application-reconnaissance)
-  * Information gathering techniques
-  * Finding subdomains
-  * Web application fingerprinting
-  * Identifying technologies and frameworks
-  * API analysis
+  * [Information gathering techniques](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#information-gathering-techniques)
+  * [Finding subdomains](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#finding-subdomains)
+  * [Web application fingerprinting](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#web-application-fingerprinting)
+  * [Identifying technologies and frameworks](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#identifying-technologies-and-frameworks)
+  * [API analysis](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#api-analysis)
   ### Module 03 - Client-Side Attacks
   * Cross-Site Scripting (XSS) - Reflected, Stored, DOM-based
   * Cross-Site Request Forgery (CSRF)
