@@ -165,7 +165,86 @@ We have tried to categorize Information Gathering into three main categories.
 #### Click on the articles for details on these three main topics.
 
 ## Finding subdomains
-upcoming
+Hello, I have come today with a very useful topic of recon. In this blog we will see how to find Subdomain of any target. So, lets start.
+What is Subdomain?
+
+A subdomain is, as the name would suggest, an additional section of your main Domain name. You create subdomains to help organize and navigate to different sections of your main website. Within your main Domain, you can have as many subdomains as necessary to get to all of the different pages of your website.
+What is Subdomain Enumeration?
+
+It is one of the most crucial parts of the reconnaissance phase while performing a security assessment. Subdomain Enumeration is a process of finding sub-domains of one or more root domains.
+Why we need Subdomain Enumeration?
+
+Subdomain Enumeration helps to create a scope of security assessment by revealing Domains/Subdomains of a target organization. It increases the chance of finding vulnerabilities. And it helps us in finding the web applications that might be forgotten/left unattended by the organization for the maintenance or other reasons and may lead to the disclosure of critical vulnerabilities.
+Methods of Subdomain Enumeration
+By search engines
+
+Search engines like Google supports various advanced search operators to refine search queries. These operators are often referred to as Google Dorks. We can use site: operator in Google search to find all the Subdomains that Google has found for a Domain. Lets take an example on “site:vulnweb.com”.
+By online sites
+
+These are some online sites who find the Subdomains of any Domain.
+
+    https://scantrics.io/subdomain-scanner/
+    https://site-analyzer.pro/services-seo/site-all-subdomains/
+    https://wikihak.com/Subdomains/Subdomains-scanner.php
+    https://subdomainfinder.c99.nl/
+
+Lets take an example
+Enter your target domain and click on show Subdomain.
+By Subfinder(in Kali machine)
+
+Subfinder is a Subdomain discovery tool that discovers valid Subdomains for websites by using passive online sources. It has a simple modular architecture and is optimized for speed.
+
+Installation Subfinder:- Open Kali Terminal
+
+    sudo git clone https://github.com/projectdiscovery/subfinder.git
+
+And will be installed. Now open new terminal and type this command
+
+    subfinder -d "your target domain"
+
+I am taking “example.com”.
+By Sublist3r(in Kali machine)
+
+Sublister is a tool designed in python and uses OSINT in order to enumerate Subdomains of websites. It helps pen-testers in collecting and gathering Subdomains for a Domain which is their target.
+
+For installation of Sublist3r checkout this link https://www.geeksforgeeks.org/what-is-sublist3r-and-how-to-use-it/
+
+And will be installed. Now open new terminal and type this command
+
+    sublist3r -d "your target domain"
+
+I am taking “vulnweb.com”.
+By Amass(in Kali machine)
+
+This package contains a tool to help information security professionals perform network mapping of attack surfaces and perform external asset discovery using open source information gathering and active reconnaissance techniques.
+
+Installation Amass:- Open Kali Terminal and write these commands
+
+    sudo apt-get update
+    sudo apt-get install amass
+
+And will be installed. Write the Subdomain Enumeration command.
+
+    amass enum -d "your target domain"
+
+I am again taking “vulnweb.com”.
+Brute Force Subdomain By ffuf(in Kali machine)
+
+ffuf is a fest web fuzzer written in Go that allows typical directory discovery, virtual host discovery (without DNS records) and GET and POST parameter fuzzing.
+
+Installation ffuf:- Open Kali Terminal and write this
+
+    git clone https://github.com/ffuf/ffuf ; cd ffuf ; go get ; go build
+
+And will be installed. In this method we are performing brute force, so we also need domain wordlist. You can download the Subdomain wordlist by Google and save wordlists folder. Now see an example on “vulnweb.com”
+
+Command,
+
+    ffuf -w /path/to/wordlist -u https://FUZZ.target
+
+-w means wordlist, -u means target URL and FUZZ is the part that has to be brute force.
+
+
 ## Web application fingerprinting
 upcoming
 ## Identifying technologies and frameworks
