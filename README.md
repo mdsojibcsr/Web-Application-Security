@@ -4,7 +4,7 @@
   ### [Module 01 - Introduction to Web Application Security](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#introduction-to-web-application-security)
   * [Security threats and vulnerabilities](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#security-threats-and-vulnerabilities)
   * [Attack vectors and motivations](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#attack-vectors-and-motivations)
-  * [CIA triad (Confidentiality, Integrity, Availability)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#cia-triad-confidentiality-integrity-availabilitycia-triad-confidentiality-integrity-availability)
+  * [CIA triad (Confidentiality, Integrity, Availability)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#cia-triad-confidentiality-integrity-availability)
   * [Secure Development Lifecycle (SDLC)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#secure-development-lifecycle-sdlc)
   ### [Module 02 - Web Application Reconnaissance](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#web-application-reconnaissance)
   * Information gathering techniques
@@ -82,10 +82,126 @@ Insecure File Permissions: Files containing sensitive information should be rest
 
 ## Attack vectors and motivations
 No content
-## CIA triad (Confidentiality, Integrity, Availability)CIA triad (Confidentiality, Integrity, Availability)
+## CIA triad (Confidentiality, Integrity, Availability)
 No content
 ## Secure Development Lifecycle (SDLC)
 No Content
 
 # Web Application Reconnaissance
 Upcoming
+## Information gathering techniques
+upcoming
+## Finding subdomains
+upcoming
+## Web application fingerprinting
+upcoming
+## Identifying technologies and frameworks
+upcoming
+## API analysis
+upcoming
+
+# Client-Side Attacks
+upcoming
+## Cross-Site Scripting (XSS) - Reflected, Stored, DOM-based
+upcoming
+## Cross-Site Request Forgery (CSRF)
+upcoming
+## Clickjacking
+upcoming
+## Client-side validation bypasses
+upcoming
+## Web Cache Poisoning
+upcoming
+
+# Server-Side Attacks
+upcoming
+## All Injection Attacks (SQLi, XSS, LDAP, etc.)
+upcoming
+## File Upload Vulnerabilities (including path traversal and Prototype Pollution)
+upcoming
+## Server-Side Request Forgery (SSRF)
+upcoming
+## Business Logic Flaws
+upcoming
+## Remote Code Execution (RCE)
+upcoming
+## Exploiting Third-Party Dependencies
+upcoming
+
+# Authentication and Authorization
+upcoming
+## Secure authentication mechanisms (password hashing, multi authentication)
+upcoming
+## Session management vulnerabilities
+upcoming
+## Broken Access Control (BAC)
+upcoming
+## Authorization models and best practices
+upcoming
+
+# Security Protocols and Standards
+upcoming
+## Secure Sockets Layer (SSL) / Transport Layer Security (TLS)
+upcoming
+## WebSockets security considerations
+upcoming
+## JSON Web Tokens (JWT) and security implications
+upcoming
+## Cross-Origin Resource Sharing (CORS)
+upcoming
+
+# Cloud Security
+upcoming
+## Cloud security architecture principles
+upcoming
+## Shared responsibility model
+upcoming
+## Securing web applications in the cloud environment
+upcoming
+
+# Security Testing and Tools
+upcoming
+## Manual and automated testing methodologies (penetration testing)
+upcoming
+## Static and dynamic application security testing (SAST & DAST)
+upcoming
+## Web vulnerability scanners and exploit frameworks
+upcoming
+
+# Advanced Topics
+upcoming
+## Web LLM (Large Language Model) attacks (emerging threats)
+upcoming
+## Race Conditions and security implications
+upcoming
+## Security Assertion Markup Language (SAML)
+upcoming
+## Reverse Engineering techniques for vulnerability research
+upcoming
+## Fingerprint Web Server
+upcoming
+
+# Secure Coding Practices
+upcoming
+## Secure coding principles (input validation, output encoding)
+upcoming
+## Common coding weaknesses and prevention strategies
+upcoming
+## Secure coding standards and frameworks
+upcoming
+
+# Security Incident Response
+upcoming
+## Incident response planning and procedures
+upcoming
+## Vulnerability disclosure and remediation
+upcoming
+## Security monitoring and logging practices
+upcoming
+
+# Legal and Ethical Considerations
+upcoming
+## Laws and regulations regarding web application security (e.g., GDPR, CCPA)
+upcoming
+## Ethical hacking and responsible disclosure practices
+upcoming
