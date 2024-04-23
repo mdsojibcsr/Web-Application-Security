@@ -25,41 +25,41 @@
   * [Business Logic Flaws](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#business-logic-flaws)
   * [Remote Code Execution (RCE)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#remote-code-execution-rce)
   * [Exploiting Third-Party Dependencies](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#exploiting-third-party-dependencies)
-  ### Module 05 - Authentication and Authorization
-  * Secure authentication mechanisms (password hashing, multi authentication)
-  * Session management vulnerabilities
-  * Broken Access Control (BAC)
-  * Authorization models and best practices
-  ### Module 06 - Security Protocols and Standards
-  * Secure Sockets Layer (SSL) / Transport Layer Security (TLS)
-  * WebSockets security considerations
-  * JSON Web Tokens (JWT) and security implications
-  * Cross-Origin Resource Sharing (CORS)
-  ### Module 07 - Cloud Security
-  * Cloud security architecture principles
-  * Shared responsibility model
-  * Securing web applications in the cloud environment
-  ### Module 08 - Security Testing and Tools
-  * Manual and automated testing methodologies (penetration testing)
-  * Static and dynamic application security testing (SAST & DAST)
-  * Web vulnerability scanners and exploit frameworks
-  ### Module 09 - Advanced Topics
-  * Web LLM (Large Language Model) attacks (emerging threats)
-  * Race Conditions and security implications
-  * Security Assertion Markup Language (SAML)
-  * Reverse Engineering techniques for vulnerability research
-  * Fingerprint Web Server
-  ### Module 10 - Secure Coding Practices
-  * Secure coding principles (input validation, output encoding)
-  * Common coding weaknesses and prevention strategies
-  * Secure coding standards and frameworks
-  ### Module 11 - Security Incident Response
-  * Incident response planning and procedures
-  * Vulnerability disclosure and remediation
-  * Security monitoring and logging practices
-  ### Module 12 - Legal and Ethical Considerations
-  * Laws and regulations regarding web application security (e.g., GDPR, CCPA)
-  * Ethical hacking and responsible disclosure practices
+  ### [Module 05 - Authentication and Authorization](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#authentication-and-authorization)
+  * [Secure authentication mechanisms (password hashing, multi authentication)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#secure-authentication-mechanisms-password-hashing-multi-authentication)
+  * [Session management vulnerabilities]()
+  * [Broken Access Control (BAC)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#broken-access-control-bac)
+  * [Authorization models and best practices](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#authorization-models-and-best-practices)
+  ### [Module 06 - Security Protocols and Standards](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#security-protocols-and-standards)
+  * [Secure Sockets Layer (SSL) / Transport Layer Security (TLS)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#secure-sockets-layer-ssl--transport-layer-security-tls)
+  * [WebSockets security considerations](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#websockets-security-considerations)
+  * [JSON Web Tokens (JWT) and security implications](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#json-web-tokens-jwt-and-security-implications)
+  * [Cross-Origin Resource Sharing (CORS)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#cross-origin-resource-sharing-cors)
+  ### [Module 07 - Cloud Security](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#cloud-security)
+  * [Cloud security architecture principles](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#cloud-security-architecture-principles)
+  * [Shared responsibility model](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#shared-responsibility-model)
+  * [Securing web applications in the cloud environment](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#securing-web-applications-in-the-cloud-environment)
+  ### [Module 08 - Security Testing and Tools](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#security-testing-and-tools)
+  * [Manual and automated testing methodologies (penetration testing)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#manual-and-automated-testing-methodologies-penetration-testing)
+  * [Static and dynamic application security testing (SAST & DAST)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#static-and-dynamic-application-security-testing-sast--dast)
+  * [Web vulnerability scanners and exploit frameworks](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#web-vulnerability-scanners-and-exploit-frameworks)
+  ### [Module 09 - Advanced Topics](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#advanced-topics)
+  * [Web LLM (Large Language Model) attacks (emerging threats)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#web-llm-large-language-model-attacks-emerging-threats)
+  * [Race Conditions and security implications](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#race-conditions-and-security-implications)
+  * [Security Assertion Markup Language (SAML)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#security-assertion-markup-language-saml)
+  * [Reverse Engineering techniques for vulnerability research](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#reverse-engineering-techniques-for-vulnerability-research)
+  * [Fingerprint Web Server](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#fingerprint-web-server)
+  ### [Module 10 - Secure Coding Practices](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#secure-coding-practices)
+  * [Secure coding principles (input validation, output encoding)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#secure-coding-principles-input-validation-output-encoding)
+  * [Common coding weaknesses and prevention strategies](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#common-coding-weaknesses-and-prevention-strategies)
+  * [Secure coding standards and frameworks](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#secure-coding-standards-and-frameworks)
+  ### [Module 11 - Security Incident Response](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#security-incident-response)
+  * [Incident response planning and procedures](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#incident-response-planning-and-procedures)
+  * [Vulnerability disclosure and remediation](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#vulnerability-disclosure-and-remediation)
+  * [Security monitoring and logging practices](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#security-monitoring-and-logging-practices)
+  ### [Module 12 - Legal and Ethical Considerations](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#legal-and-ethical-considerations)
+  * [Laws and regulations regarding web application security (e.g. GDPR, CCPA)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#laws-and-regulations-regarding-web-application-security-eg-gdpr-ccpa)
+  * [Ethical hacking and responsible disclosure practices](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#ethical-hacking-and-responsible-disclosure-practices)
 # Introduction to Web Application Security
 Web application security is a branch of information security that specifically deals with the security of websites, web applications and web services. It is designed to ensure that these applications are protected from unauthorized access, modification or destruction. Web application security is important because it can protect web applications from various types of threats.It is a broad discipline, but its ultimate goals are to keep web applications running smoothly and protect businesses from cyber vandalism, data theft, unethical competition and other negative consequences. The global nature of the Internet exposes web applications and APIs to attacks from many locations and with varying levels of scale and complexity. As such, web application security encompasses a variety of techniques and covers many parts of the software supply chain.
 
