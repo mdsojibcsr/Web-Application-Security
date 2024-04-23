@@ -94,8 +94,23 @@ The theft of sensitive information such as trade secrets or intellectual propert
 Distortion:
 Discrediting a website by changing its content can be a way for attackers to gain notoriety or promote a cause.State-sponsored attacks:
 Governments may sponsor attacks to steal information, disrupt critical infrastructure, or gain an advantage in cyber warfare. By understanding attack vectors and motivations, you can proactively protect your web applications and the data they store.
+
 ## CIA triad (Confidentiality, Integrity, Availability)
-No content
+The CIA triad is a basic security model used to manage information security practices.
+
+Confidentiality:
+This policy ensures that only authorized users can access sensitive information on websites and applications. It focuses on preventing unauthorized access, disclosure or viewing of data by the web and application owner. Examples of privacy measures include access control, data encryption, and user authentication.
+
+Integrity: This policy ensures that information is accurate, complete and reliable. It focuses on protecting data from unauthorized alteration, destruction or manipulation. Examples of integrity measures include data verification, checksums, and digital signatures.
+
+Availability:
+This policy ensures that authorized users can access information and resources on websites and applications whenever needed. It focuses on keeping systems and data updated and running and preventing outages or interruptions. Examples of availability measures include system backup, redundancy, and disaster recovery planning.
+
+Why is the CIA Triad important?
+
+The CIA Triad provides a simple framework for organizations to assess their security posture and identify potential vulnerabilities. By focusing on the three principles, organizations can develop a more comprehensive security strategy.
+
+And that is why adopting these three principles is very important in web application security.
 ## Secure Development Lifecycle (SDLC)
 No Content
 
