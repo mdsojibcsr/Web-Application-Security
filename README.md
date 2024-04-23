@@ -81,7 +81,19 @@ Misconfigured security settings: Incorrect security settings can leave the appli
 Insecure File Permissions: Files containing sensitive information should be restricted to authorized users.Hackers can take advantage of these vulnerabilities to attack and take our important data. As it happened, Equifax (the case on the page above) failed to keep their applications and software updated. Even though it has a patch available against a known SQL injection vulnerability, Equifax has not installed it on their systems. Equifax did not use adequate security measures to secure their systems. This leak could have been prevented if a web application firewall (WAF) was installed. That is why it is important for us to be aware of this.
 
 ## Attack vectors and motivations
-No content
+In the world of web application security, understanding attack vectors and motivations is critical to building strong defenses.
+Attack vector:
+An attack vector is the method an attacker uses to exploit a vulnerability in a web application. It is the path they take to gain unauthorized access to a system, steal data, disrupt operations, or achieve other nefarious goals. Here are some common attack vectors: SQL Injection, Cross-Site Scripting (XSS), Malware, Phishing Attacks, Denial-of-Service (DOS) Attacks, Insecure Direct Object Reference (IDOR), File Upload Vulnerabilities,
+
+Motivations:
+Understanding why someone would attack a web application helps security measures. Common motivations include: Financial gain:
+Stealing financial information (credit card details, bank account numbers) or using stolen data for identity theft are common targets. Attackers can also launch ransomware attacks, demanding payment to regain access to data.
+Disturbance:
+Hacktivists or competitors may aim to cause chaos and bring down websites or applications. Espionage:
+The theft of sensitive information such as trade secrets or intellectual property is a major concern for businesses.
+Distortion:
+Discrediting a website by changing its content can be a way for attackers to gain notoriety or promote a cause.State-sponsored attacks:
+Governments may sponsor attacks to steal information, disrupt critical infrastructure, or gain an advantage in cyber warfare. By understanding attack vectors and motivations, you can proactively protect your web applications and the data they store.
 ## CIA triad (Confidentiality, Integrity, Availability)
 No content
 ## Secure Development Lifecycle (SDLC)
