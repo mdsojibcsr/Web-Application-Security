@@ -162,7 +162,7 @@ We have tried to categorize Information Gathering into three main categories.
 1. [Footprinting](https://www.w3schools.in/ethical-hacking/footprinting/)
 2. [Scanning](https://www.w3schools.in/ethical-hacking/scanning-techniques/)
 3. [Enumeration](https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/enumeration-ethical-hacking/)
-Click on the articles for details on these three main topics.
+  Click on the articles for details on these three main topics.
 
 ## Finding subdomains
 upcoming
