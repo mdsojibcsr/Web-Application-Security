@@ -158,6 +158,11 @@ Gathering information for web application security is the first step in which a 
 
 What is Information Gathering?
 Information Gathering is the act of gathering various types of information against a target victim or system. It is the first step or initial phase of ethical hacking or web application security, where penetration testers or hackers or pen-testers (both black hat and white hat) perform this phase; Performing this is a necessary and important step. The more information gathered about the target, the more likely it is to get relevant results. Data collection is not only a phase of security testing; This is an art that every penetration-tester (pen-tester) and hacker should master for a better penetration testing experience. There are various tools, techniques and websites that help hackers gather information, including public sources like Whois, nslookup. This step is necessary because you may need any information when attacking any target (like his pet's name, best friend's name, age or phone number password guessing attack or other types of attacks) etc.
+We have tried to categorize Information Gathering into three main categories.
+1. [Footprinting](https://www.w3schools.in/ethical-hacking/footprinting/)
+2. [Scanning](https://www.w3schools.in/ethical-hacking/scanning-techniques/)
+3. [Enumeration](https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/enumeration-ethical-hacking/)
+Click on the articles for details on these three main topics.
 
 ## Finding subdomains
 upcoming
