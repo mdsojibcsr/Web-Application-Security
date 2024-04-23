@@ -12,19 +12,19 @@
   * [Web application fingerprinting](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#web-application-fingerprinting)
   * [Identifying technologies and frameworks](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#identifying-technologies-and-frameworks)
   * [API analysis](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#api-analysis)
-  ### Module 03 - Client-Side Attacks
-  * Cross-Site Scripting (XSS) - Reflected, Stored, DOM-based
-  * Cross-Site Request Forgery (CSRF)
-  * Clickjacking
-  * Client-side validation bypasses
-  * Web Cache Poisoning
-  ### Module 04 - Server-Side Attacks
-  * All Injection Attacks (SQLi, XSS, LDAP, etc.)
-  * File Upload Vulnerabilities (including path traversal and Prototype Pollution)
-  * Server-Side Request Forgery (SSRF)
-  * Business Logic Flaws
-  * Remote Code Execution (RCE)
-  * Exploiting Third-Party Dependencies
+  ### [Module 03 - Client-Side Attacks](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#client-side-attacks)
+  * [Cross-Site Scripting (XSS) - Reflected, Stored, DOM-based](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#cross-site-scripting-xss---reflected-stored-dom-based)
+  * [Cross-Site Request Forgery (CSRF)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#cross-site-request-forgery-csrf)
+  * [Clickjacking](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#clickjacking)
+  * [Client-side validation bypasses](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#client-side-validation-bypasses)
+  * [Web Cache Poisoning](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#web-cache-poisoning)
+  ### [Module 04 - Server-Side Attacks](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#server-side-attacks)
+  * [All Injection Attacks (SQLi, XSS, LDAP, etc.)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#all-injection-attacks-sqli-xss-ldap-etc)
+  * [File Upload Vulnerabilities (including path traversal and Prototype Pollution)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#file-upload-vulnerabilities-including-path-traversal-and-prototype-pollution)
+  * [Server-Side Request Forgery (SSRF)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#server-side-request-forgery-ssrf)
+  * [Business Logic Flaws](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#business-logic-flaws)
+  * [Remote Code Execution (RCE)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#remote-code-execution-rce)
+  * [Exploiting Third-Party Dependencies](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#exploiting-third-party-dependencies)
   ### Module 05 - Authentication and Authorization
   * Secure authentication mechanisms (password hashing, multi authentication)
   * Session management vulnerabilities
