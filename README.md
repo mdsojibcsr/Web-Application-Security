@@ -111,13 +111,54 @@ Why is the CIA Triad important?
 The CIA Triad provides a simple framework for organizations to assess their security posture and identify potential vulnerabilities. By focusing on the three principles, organizations can develop a more comprehensive security strategy.
 
 And that is why adopting these three principles is very important in web application security.
-## Secure Development Lifecycle (SDLC)
-No Content
 
+## Secure Development Lifecycle (SDLC)
+The Secure Development Lifecycle (SDLC) is a framework that integrates security practices throughout the entire software development process. It's not just about finally fixing bugs; It's about proactively building security into the application from the start. Here's a breakdown of the SDLC stages and how security is incorporated:
+
+Planning and Requirements:
+Security requirements are identified alongside functional requirements. Threat modeling is performed to identify potential vulnerabilities and attacks.
+
+Design and Prototyping:
+Secure coding practices are emphasized from the start. The security architecture is designed to mitigate identified threats.
+
+Development:
+Developers use secure coding techniques to avoid common vulnerabilities. Static code analysis tools are used to detect potential security flaws early.
+
+Examination:
+Security testing is integrated throughout the development process. This includes manual penetration testing and automated security scanning.
+
+Installation and Maintenance:
+Safe deployment practices are followed to minimize vulnerabilities. Regular security updates and patches are applied to keep the software up to date.
+
+Secure SDLC is an essential practice for building secure and reliable software applications. By integrating security throughout the development lifecycle, organizations can significantly reduce the risk of vulnerabilities and protect their data and systems.
 # Web Application Reconnaissance
-Upcoming
+Web Application Reconnaissance, often abbreviated as Recon, is the basic phase in which information about a web application is gathered. This intel is crucial for ethical hackers (pen testers) and bug bounty hunters to identify potential security vulnerabilities before malicious actors exploit them. Similarly, security engineers use Recon techniques to proactively find and patch vulnerabilities in their own applications.
+
+Think of it like scouting a building before attempting a security assessment. Recon helps us understand our application's layout, defenses, and potential weak points. By gathering this information, we can develop more targeted and efficient methods for finding and exploiting vulnerabilities.
+
+Here's a breakdown of why Recon is important:
+Solid foundation:
+A thorough understanding of application functionality and underlying infrastructure allows for more informed and effective attack strategies.
+
+Vulnerability detection: Recon helps identify areas of weak security practices, such as outdated libraries or poorly configured services.
+
+Prioritization: By understanding the critical components of the application, testers can prioritize their efforts in areas with the highest potential impact. There are two main methods of recon:
+Passive reconnaissance: This involves gathering information without interacting with the application. Strategies include:
+Collecting public information: (https://www.searchenginejournal.com/alternative-search-engines/271409/) and seeking information about the Application, its developer and the technology used to create it through social media.
+Domain Name System (DNS) Lookups: You can use tools like (https://research.domaintools.com/) to uncover details about domain name registrations.
+Active Reconnaissance: This involves directly interacting with the application to search for vulnerabilities. Strategies include:Application Mapping: Identifying all the different functionalities and features offered by the application.
+Test for Common Vulnerabilities: Uses automated tools to scan for known vulnerabilities such as SQL injection or cross-site scripting (XSS).
+
+We have tried to cover several topics in Web Application Recon module. They are - Information gathering techniques, Finding subdomains, Web application fingerprinting, Identifying technologies and frameworks and API analysis.
+
+Remember, recon is a powerful tool, but it should be used responsibly and ethically. There are legal and ethical considerations when recon in web applications Always get permission from the owner before actively searching for vulnerabilities.
+
 ## Information gathering techniques
-upcoming
+Gathering information for web application security is the first step in which a hacker attempts to obtain information about a target. Hackers use various sources and tools to get more information and some of them are briefly explained here. You will need this information for web application security.
+
+What is Information Gathering?
+Information Gathering is the act of gathering various types of information against a target victim or system. It is the first step or initial phase of ethical hacking or web application security, where penetration testers or hackers or pen-testers (both black hat and white hat) perform this phase; Performing this is a necessary and important step. The more information gathered about the target, the more likely it is to get relevant results. Data collection is not only a phase of security testing; This is an art that every penetration-tester (pen-tester) and hacker should master for a better penetration testing experience. There are various tools, techniques and websites that help hackers gather information, including public sources like Whois, nslookup. This step is necessary because you may need any information when attacking any target (like his pet's name, best friend's name, age or phone number password guessing attack or other types of attacks) etc.
+
 ## Finding subdomains
 upcoming
 ## Web application fingerprinting
