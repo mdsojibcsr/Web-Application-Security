@@ -1,7 +1,8 @@
-<img src="./Github Banner(1).jpg" width="60%" height="50%">
+<img src="./Github Banner(1).jpg" width="100%" >
 
 # Web Application Security
-### Assalamu Alaikum, I hope you are well. Let us say at the outset that our journey will not be easy at all. Because there will be many obstacles on the way. Many people will give up in the middle after seeing those obstacles. So, I am saying in advance, think carefully and set your goals for the future. After setting goals, your second task is to strengthen your foundation. You must have basic knowledge about web application security so that you don't have to face major obstacles in your future journey. So, let's begin our journey
+### Assalamu Alaikum, I hope you are well. Let us say at the outset that our journey will not be easy at all. Because there will be many obstacles on the way. Many people will give up in the middle after seeing those obstacles. So, I am saying in advance, think carefully and set your goals for the future. After setting goals, your second task is to strengthen your foundation. You must have basic knowledge about web application security so that you don't have to face major obstacles in your future journey. I tried to go from absolute beginner to advanced level.  The resources provided here can be said to be of advanced level. 
+So, let's begin our journey...
 
 # Table of Contents #
   ### Module 01 - Introduction to Web Application Security - [Click here for details](https://www.cloudflare.com/learning/security/what-is-web-application-security/)
