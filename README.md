@@ -1,4 +1,4 @@
-<img src="./Github Banner.jpg" width="60%" height="50%">
+<img src="./Github Banner(1).jpg" width="60%" height="50%">
 
 # Web Application Security
 ### A Complete Web Application Security Syllabus and Resources.
