@@ -62,3 +62,5 @@
   ### Module 12 - Legal and Ethical Considerations - [Click here for details](https://www.quora.com/What-are-some-legal-and-ethical-considerations-for-web-application-penetration-testing)
   * Laws and regulations regarding web application security (e.g. GDPR, CCPA) - [Click here for details](https://getterms.io/blog/web-application-privacy-policy-template-and-guide)
   * Ethical hacking and responsible disclosure practices - [Click here for details](https://www.hackerone.com/knowledge-center/why-you-need-responsible-disclosure-and-how-get-started)
+
+All rights reserved by VulneraScan @2024
