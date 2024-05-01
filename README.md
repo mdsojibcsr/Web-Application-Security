@@ -253,7 +253,7 @@ The web application fingerprinting can be done with the use of a variety of tool
 Manual Fingerprinting
 
 This can be done with the use of different utilities such as the telnet or the netcat.For example we can try to connect with netcat to the remote webserver that is running on port 80.We will send an HTTP request by using the HEAD method and we will wait for the response of the web server. 
-<img src="./2.png" width="100%">
+<img src="./2.png" width="80%">
 As we can see from the HTTP response header the type of the web server is Apache.Also we have managed to identify the technology from the X-Powered-By field name along with the version that supports the application which is PHP/5.3.5 and also the web application that is running on the web server which is a ZendServer.Alternatively if we don’t want to use the netcat utility we can use the telnet in order to obtain the header information from the web server.The image below is showing the usage of telnet in obtaining the HTTP Response Header from the same web server.
 
 
