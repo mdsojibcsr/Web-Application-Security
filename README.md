@@ -3,11 +3,11 @@
 # Web Application Security
 ### A Complete Web Application Security Syllabus and Resourse.
 # Table of Contents #
-  ### [Module 01 - Introduction to Web Application Security](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#introduction-to-web-application-security)
-  * [Security threats and vulnerabilities](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#security-threats-and-vulnerabilities)
-  * [Attack vectors and motivations](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#attack-vectors-and-motivations)
-  * [CIA triad (Confidentiality, Integrity, Availability)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#cia-triad-confidentiality-integrity-availability)
-  * [Secure Development Lifecycle (SDLC)](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#secure-development-lifecycle-sdlc)
+  ### Module 01 - Introduction to Web Application Security - [Click here for details](https://www.cloudflare.com/learning/security/what-is-web-application-security/)
+  * Security threats and vulnerabilities - [Click here for details](https://trustnetinc.com/threats-and-vulnerabilities/)
+  * Attack vectors and motivations - [Click here for details](https://www.upguard.com/blog/attack-vector)
+  * CIA triad (Confidentiality, Integrity, Availability) - [Click here for details](https://www.fortinet.com/resources/cyberglossary/cia-triad)
+  * Secure Development Lifecycle (SDLC) - [Click here for details](https://www.checkpoint.com/cyber-hub/cloud-security/what-is-secure-sdlc/)
   ### [Module 02 - Web Application Reconnaissance](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#web-application-reconnaissance)
   * Information gathering techniques - [Click here for details](https://www.w3schools.in/ethical-hacking/information-gathering-techniques)
   * Finding subdomains - [Click here for details](https://medium.com/@uttamgupta_/subdomain-enumeration-how-to-find-subdomains-of-any-domain-37c989e43ffa)
@@ -63,4 +63,4 @@
   * Laws and regulations regarding web application security (e.g. GDPR, CCPA) - [Click here for details](https://getterms.io/blog/web-application-privacy-policy-template-and-guide)
   * Ethical hacking and responsible disclosure practices - [Click here for details](https://www.hackerone.com/knowledge-center/why-you-need-responsible-disclosure-and-how-get-started)
 
-All rights reserved by VulneraScan @2024
+All rights reserved by MD SOJiB @2024
