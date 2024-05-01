@@ -258,6 +258,15 @@ This can be done with the use of different utilities such as the telnet or the n
 
 As we can see from the HTTP response header the type of the web server is Apache.Also we have managed to identify the technology from the X-Powered-By field name along with the version that supports the application which is PHP/5.3.5 and also the web application that is running on the web server which is a ZendServer.Alternatively if we don’t want to use the netcat utility we can use the telnet in order to obtain the header information from the web server.The image below is showing the usage of telnet in obtaining the HTTP Response Header from the same web server.
 
+<img src="./3.png" width="60%" height="20%">
+
+Another way is while we are performing our port scan with Nmap on the remote host to use the command -sV which will obtain as well the type and the version of the web server that is running.For example in the image below we can see from the output that Nmap discovered that the web server is IIS version 6.0.
+
+<img src="./3.png" width="60%" height="20%">
+
+Another method is to send a malformed request to the web server that will cause the web server to produce an error page which will contain in the response header the version of the web server.
+
+<img src="./4.png" width="60%" height="20%">
 
 ## Identifying technologies and frameworks
 upcoming
