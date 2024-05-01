@@ -246,7 +246,16 @@ Command,
 
 
 ## Web application fingerprinting
-upcoming
+One of the first tasks when conducting a web application penetration test is to try to identify the version of the web server and the web application.The reason for that is that it allows us to discover all the well-known vulnerabilities that are affecting the web server and the application.This process is called web application fingerprinting and in this article we will see how to perform it.
+
+The web application fingerprinting can be done with the use of a variety of tools or manually.
+
+Manual Fingerprinting
+
+This can be done with the use of different utilities such as the telnet or the netcat.For example we can try to connect with netcat to the remote webserver that is running on port 80.We will send an HTTP request by using the HEAD method and we will wait for the response of the web server. 
+As we can see from the HTTP response header the type of the web server is Apache.Also we have managed to identify the technology from the X-Powered-By field name along with the version that supports the application which is PHP/5.3.5 and also the web application that is running on the web server which is a ZendServer.Alternatively if we don’t want to use the netcat utility we can use the telnet in order to obtain the header information from the web server.The image below is showing the usage of telnet in obtaining the HTTP Response Header from the same web server.
+
+
 ## Identifying technologies and frameworks
 upcoming
 ## API analysis
