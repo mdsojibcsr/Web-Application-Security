@@ -1,7 +1,7 @@
 <img src="./Github Banner.jpg" width="60%" height="50%">
 
 # Web Application Security
-### A Complete Web Application Security Syllabus and Resourse.
+### A Complete Web Application Security Syllabus and Resources.
 # Table of Contents #
   ### Module 01 - Introduction to Web Application Security - [Click here for details](https://www.cloudflare.com/learning/security/what-is-web-application-security/)
   * Security threats and vulnerabilities - [Click here for details](https://trustnetinc.com/threats-and-vulnerabilities/)
