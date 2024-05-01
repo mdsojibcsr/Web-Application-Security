@@ -1,5 +1,5 @@
 # Web Application Security
-### A Complete Web Application Security Syllabus.
+### A Complete Web Application Security Syllabus and Resourse.
 # Table of Contents #
   ### [Module 01 - Introduction to Web Application Security](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#introduction-to-web-application-security)
   * [Security threats and vulnerabilities](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#security-threats-and-vulnerabilities)
@@ -246,28 +246,7 @@ Command,
 
 
 ## Web application fingerprinting
-One of the first tasks when conducting a web application penetration test is to try to identify the version of the web server and the web application.The reason for that is that it allows us to discover all the well-known vulnerabilities that are affecting the web server and the application.This process is called web application fingerprinting and in this article we will see how to perform it.
-
-The web application fingerprinting can be done with the use of a variety of tools or manually.
-
-Manual Fingerprinting
-
-This can be done with the use of different utilities such as the telnet or the netcat.For example we can try to connect with netcat to the remote webserver that is running on port 80.We will send an HTTP request by using the HEAD method and we will wait for the response of the web server. 
-
-<img src="./2.png" width="60%" height="20%">
-
-As we can see from the HTTP response header the type of the web server is Apache.Also we have managed to identify the technology from the X-Powered-By field name along with the version that supports the application which is PHP/5.3.5 and also the web application that is running on the web server which is a ZendServer.Alternatively if we don’t want to use the netcat utility we can use the telnet in order to obtain the header information from the web server.The image below is showing the usage of telnet in obtaining the HTTP Response Header from the same web server.
-
-<img src="./3.png" width="60%" height="20%">
-
-Another way is while we are performing our port scan with Nmap on the remote host to use the command -sV which will obtain as well the type and the version of the web server that is running.For example in the image below we can see from the output that Nmap discovered that the web server is IIS version 6.0.
-
-<img src="./3.png" width="60%" height="20%">
-
-Another method is to send a malformed request to the web server that will cause the web server to produce an error page which will contain in the response header the version of the web server.
-
-<img src="./4.png" width="60%" height="20%">
-
+Read this article [Click](https://pentestlab.blog/2012/08/01/web-application-fingerprinting/)
 ## Identifying technologies and frameworks
 upcoming
 ## API analysis
