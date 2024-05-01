@@ -8,7 +8,7 @@
   * Attack vectors and motivations - [Click here for details](https://www.upguard.com/blog/attack-vector)
   * CIA triad (Confidentiality, Integrity, Availability) - [Click here for details](https://www.fortinet.com/resources/cyberglossary/cia-triad)
   * Secure Development Lifecycle (SDLC) - [Click here for details](https://www.checkpoint.com/cyber-hub/cloud-security/what-is-secure-sdlc/)
-  ### [Module 02 - Web Application Reconnaissance](https://github.com/mdsojibcsr/Web-Application-Security/blob/main/README.md#web-application-reconnaissance)
+  ### Module 02 - Web Application Reconnaissance - [Click here for details](https://www.oreilly.com/library/view/web-application-security/9781492053101/ch02.html)
   * Information gathering techniques - [Click here for details](https://www.w3schools.in/ethical-hacking/information-gathering-techniques)
   * Finding subdomains - [Click here for details](https://medium.com/@uttamgupta_/subdomain-enumeration-how-to-find-subdomains-of-any-domain-37c989e43ffa)
   * Web application fingerprinting - [Click here for details](https://pentestlab.blog/2012/08/01/web-application-fingerprinting/)
