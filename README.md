@@ -23,7 +23,7 @@ So, let's begin our journey...
   * Client-side validation bypasses - [Click here for details](https://portswigger.net/support/using-burp-to-bypass-client-side-javascript-validation)
   * Web Cache Poisoning - [Click here for details](https://portswigger.net/web-security/web-cache-poisoning)
   ### Module 04 - Server-Side Attacks - [Click here for details]()
-  * SQL Injection Attacks - [SQLi](https://portswigger.net/web-security/sql-injection)
+  * Injection Attacks - [SQLi](https://portswigger.net/web-security/sql-injection) [NoSQL](https://portswigger.net/web-security/learning-paths/nosql-injection) [OS command](https://portswigger.net/web-security/os-command-injection) [XXE](https://portswigger.net/web-security/xxe)
   * File Upload Vulnerabilities (including path traversal and Prototype Pollution) - [Click here for details](https://portswigger.net/web-security/file-upload)
   * Server-Side Request Forgery (SSRF) - [Click here for details](https://portswigger.net/web-security/ssrf)
   * Business Logic Flaws - [Click here for details](https://portswigger.net/web-security/logic-flaws)
